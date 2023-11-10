@@ -1,0 +1,4 @@
+.close:hover > div {
+    opacity: 1;
+    transition: all 1s ease;
+}
